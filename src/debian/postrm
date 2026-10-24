@@ -1,0 +1,32 @@
+#!/bin/sh
+set -eu
+# Intentionally retain /etc/gutochat-preview and /var/lib/gutochat-preview.
+case "$1" in
+ remove|purge) /usr/bin/python3 -I - <<'CACHE_PY'
+"""Embedded into package postrm; bounded removal of known root bytecode only."""
+import os,pathlib,re,stat
+
+def cleanup(code):
+    cache=code/'__pycache__'
+    if not cache.exists() and not cache.is_symlink():return
+    for component in [*reversed(cache.parents),cache]:
+        meta=component.lstat()
+        if not stat.S_ISDIR(meta.st_mode) or meta.st_uid!=0 or meta.st_mode&0o022:
+            raise RuntimeError('CACHE_PATH_REQUIRES_REVIEW')
+    files=list(cache.iterdir())
+    for path in files:
+        meta=path.lstat()
+        if not re.fullmatch(r'(layout|dependency_probe)\.cpython-[0-9]{2,3}\.pyc',path.name) or not stat.S_ISREG(meta.st_mode) or meta.st_uid!=0 or meta.st_mode&0o022:
+            raise RuntimeError('CACHE_FILE_REQUIRES_REVIEW')
+    for path in files:path.unlink()
+    cache.rmdir()
+    if not list(code.iterdir()):code.rmdir()
+
+if __name__=='__main__':
+    if os.geteuid()!=0:raise SystemExit('ROOT_REQUIRED')
+    cleanup(pathlib.Path('/usr/lib/gutochat-preview'))
+
+CACHE_PY
+ ;;
+esac
+if [ -d /run/systemd/system ]; then /usr/bin/systemctl daemon-reload; fi

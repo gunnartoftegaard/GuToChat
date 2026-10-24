@@ -1,0 +1,30 @@
+{
+  "prerelease": true,
+  "application_version": "2.5.0~preview20261024.18docs1",
+  "driver_version": "2.7.9~gutochat20261024.4",
+  "assets": [
+    {
+      "filename": "gutochat-candidate-r18.deb",
+      "sha256": "4fb45230280e762fed638ea8f7c23072812b650ded516d287e8d5918e7349d0f",
+      "bytes": 911752,
+      "role": "binary-package"
+    },
+    {
+      "filename": "gutochat-driver-r4.deb",
+      "sha256": "8aeeed6a6b9bb1f6e0e7c8079291591b2b37034b93fb441853ecd5a5a07d06c9",
+      "bytes": 3403062,
+      "role": "binary-package"
+    },
+    {
+      "filename": "GuToChat-source-build-2.5.0-preview18.zip",
+      "sha256": "56f1b6fc9db1f75381dd62b094202bc4514283cde4353c77117b51b9e6af09d4",
+      "bytes": 19896571,
+      "role": "matching-source-build"
+    }
+  ],
+  "publish_all_assets_together": true,
+  "source_access": "Same release, no extra charge; no private credentials required",
+  "native_recompilation_performed": false,
+  "release_url": "https://github.com/gunnartoftegaard/GuToChat/releases/tag/v2.5.0-preview18",
+  "tag": "v2.5.0-preview18"
+}

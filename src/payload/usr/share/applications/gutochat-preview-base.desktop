@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GuToChat Preview Base
+Name[nb]=GuToChat Prøveutgave Base
+Exec=/usr/bin/python3 -I /usr/lib/gutochat-preview/gui_entry.py base
+Terminal=false
+Categories=Network;
+StartupNotify=true

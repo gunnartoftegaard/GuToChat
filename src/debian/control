@@ -1,0 +1,11 @@
+Package: gutochat-preview
+Version: 2.5.0~preview20261024.18docs1
+Section: net
+Priority: optional
+Architecture: all
+Maintainer: Gunnar Toftegaard <post@gutochat.no>
+Depends: python3 (>= 3.11), python3-tk, python3-pil, python3-pil.imagetk, systemd, pkexec, desktop-file-utils
+Homepage: https://www.gutochat.no/
+Description: GuToChat modular experimental preview
+ Base and Field core with explicit optional radio setup; see included scope notes.
+ Optional radio registration is explicit; publication remains disabled.

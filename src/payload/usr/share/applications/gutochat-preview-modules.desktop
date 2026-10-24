@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=GuToChat Preview Radio Modules
+Name[nb]=GuToChat Prøveutgave Radiomoduler
+Exec=/usr/bin/python3 -I /usr/lib/gutochat-preview/module_setup_ui.py
+Terminal=false
+Categories=Network;

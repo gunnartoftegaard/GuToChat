@@ -1,0 +1,3 @@
+#!/bin/sh
+set -eu
+if [ "$1" = configure ]; then /usr/bin/systemctl daemon-reload; fi

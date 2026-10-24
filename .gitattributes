@@ -1,0 +1,2 @@
+# Preserve exact package-input bytes and manifest hashes on every platform.
+* -text

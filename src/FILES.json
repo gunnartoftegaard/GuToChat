@@ -1,0 +1,1497 @@
+[
+  {
+    "path": "debian/control",
+    "mode": 420,
+    "sha256": "cf2df2d24a6f76555593baba5021cf6d3706e215773ae359553479ef39a92843"
+  },
+  {
+    "path": "debian/md5sums",
+    "mode": 420,
+    "sha256": "c92f03957ad5f2fb07701f2b4a47817dd6095bbfc7038c35471511ab3fe98308"
+  },
+  {
+    "path": "debian/postinst",
+    "mode": 493,
+    "sha256": "ebdc0ee3ce379ac778fa5a8c5ad8b27ad091617a1f2043dcbf6155a7aa6c1c1f"
+  },
+  {
+    "path": "debian/postrm",
+    "mode": 493,
+    "sha256": "fd3cd9a5f9fc12f6b5f67d869d478dac519d03d2ebb42d55fde72ef28436e9a1"
+  },
+  {
+    "path": "debian/prerm",
+    "mode": 493,
+    "sha256": "bad1ef129e88df0484e9731a62aeb9726e341466f09e10ede7adaf5f9dbaa4b4"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/adapter_bootstrap.py",
+    "mode": 420,
+    "sha256": "aebb86cfae4ec62739d3806dda3e86eb6822b5efeac403de3cdb686adb9f4cf2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/adapter_catalog.py",
+    "mode": 420,
+    "sha256": "4d68c49a7a0d6de1290ac5d8380cd6fd339518b87efbc3ae855ce23009633b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/adapter_entry.py",
+    "mode": 420,
+    "sha256": "b75a4f4dd74f4ed097e13ede91e9e7f7018b0e4c1577f45ea183a2df2cbdfff4"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/adapter_health.py",
+    "mode": 420,
+    "sha256": "14bc68789e5a667a65ceeb3d78442f68ad910b24bfff2679eb41fb822cc4d5f7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/adapter_manifest.py",
+    "mode": 420,
+    "sha256": "824ff0346b20dab44284bcb9191516c501967faef368fb14c9586ff3d88e8b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/admin.py",
+    "mode": 420,
+    "sha256": "8f89341cd71d904bfb9068956029f85b18dd6c3913feed28d3dccba15ee2737a"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/__init__.py",
+    "mode": 420,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/a2_adapter_process_v1_rev2.py",
+    "mode": 420,
+    "sha256": "a26aa0ebcb967313cbbdbbf84d032c233756c163fcf07fd34a26d09098f111c3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/a2_adapter_process_v1_rev3.py",
+    "mode": 420,
+    "sha256": "60ea81dc0470a2416bfc4f31ad63a1d57072f1788194ac6ff5d0d6f6c3c01b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/a2_ingress_parser_v1.py",
+    "mode": 420,
+    "sha256": "7275935613b6bad8441295b2f7c1885b159362efd05339c80c4302f82ae34422"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/activation.py",
+    "mode": 420,
+    "sha256": "2c68a9c8ee60805de43bec1c3bb693707e6d03415a2200591db640a3d23050b7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/adapter_catalog.py",
+    "mode": 420,
+    "sha256": "4d68c49a7a0d6de1290ac5d8380cd6fd339518b87efbc3ae855ce23009633b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/adapter_health.py",
+    "mode": 420,
+    "sha256": "14bc68789e5a667a65ceeb3d78442f68ad910b24bfff2679eb41fb822cc4d5f7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/adapter_manifest.py",
+    "mode": 420,
+    "sha256": "824ff0346b20dab44284bcb9191516c501967faef368fb14c9586ff3d88e8b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/api_security.py",
+    "mode": 420,
+    "sha256": "f81fe756a25fc2583b4262344d03a305a592cfe2d9ded1a2d21f0a6c94f60239"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_a2_boot_entry.py",
+    "mode": 420,
+    "sha256": "4903e00576cc36d6b9374f4ee811fe72a9ef91225bf87b0819e9233d51115381"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_a2_boot_readiness.py",
+    "mode": 420,
+    "sha256": "d7dc2791fb5790652ffa2923ef3290a279f7c3cb915ba20c89d49840c30a1aa4"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_a2_client.py",
+    "mode": 420,
+    "sha256": "3e58a49231c1560ade5ec2cc2f8b8a98ab204d2e0d9c31702a53e03b243b82f4"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_a2_ipc.py",
+    "mode": 420,
+    "sha256": "c76a07de359f6a0cb1a9a375950bd753552818a0f85816946653b8ba9b33623f"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_a2_runtime_bridge.py",
+    "mode": 420,
+    "sha256": "d5909da85568ba8f560816e36a60a0d0ea4150d17f720e2da193cedfd9917236"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_headless.py",
+    "mode": 420,
+    "sha256": "749b6a58c34830fd9a9e0cad01bc1c0228b110e69e3458eefc41c79906e3046b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_boot_entry_v1.py",
+    "mode": 420,
+    "sha256": "bb455bb7407f1431420085a7af59feba158dba5906ac8220d2507ddc1aae5cd3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_boot_readiness_v1.py",
+    "mode": 420,
+    "sha256": "868c43ae51ad6a96d4616af1daf4ab706950793b0684ead4bb3393a8dcfd9681"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_connect_login_probe_v1.py",
+    "mode": 420,
+    "sha256": "e9342d1ddcf285c6d76d89ee1452d4c41481d75fb2cb70ebae3b22e76843b7a3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_control_client_v1.py",
+    "mode": 420,
+    "sha256": "4f6127eae0c1fc0c2e843915b239259b76343af2211471edec15daf08163f9a8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_control_transport_v1.py",
+    "mode": 420,
+    "sha256": "f7eb41f2d6c41338a10095bbaef2a59dba765c6cb302f5c76554f88fec2790ec"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_credential_v1.py",
+    "mode": 420,
+    "sha256": "d42f8ed7da1fa0576f139c19cb7c0c72d734c6f0ce40b418649201c583a254cd"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_engine_v1.py",
+    "mode": 420,
+    "sha256": "53462d8b582453a5f3da6ab02494f727d309d5e8b25c41fb59f6d053302408ba"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_gui_status_v1.py",
+    "mode": 420,
+    "sha256": "c80e1cd6754024367028250b2607ba1f29eaba16436ff6e535a0e5f47d4fbcf0"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_live_dispatch_v1.py",
+    "mode": 420,
+    "sha256": "35b02409a80a94482d6f3bf51b521fa617c493d7ec1004c8e5f25b5053073956"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_outbox_v1.py",
+    "mode": 420,
+    "sha256": "7fd3ca817ea8136a2c12999825078c68b6eeb9beb6853b8bb912823276825154"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_persistent_uplink_v1.py",
+    "mode": 420,
+    "sha256": "f97fab40ae766ec58f07b34d5624d4102f404c1f528497a1f9c04acc552c613d"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_policy_v1_rev2.py",
+    "mode": 420,
+    "sha256": "295c4dc15d4b5af43d0767ca2024d2694f67b0b68912a5e8745afb4a42035aee"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_provenance_v1.py",
+    "mode": 420,
+    "sha256": "1caa7565de4bc0ea6ac9261c2d7cfe136ee050996177a7f527bc092a5438e2eb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_uplink_lease_v1.py",
+    "mode": 420,
+    "sha256": "c659da9da06d820f9895c09d333464ce354b62b51436fdacf3486ea07520f313"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_igate_uplink_v1.py",
+    "mode": 420,
+    "sha256": "1263c29aa3c6b9e857dcd8d933db044e2c2988336fef7794479b64cbf5eb7b22"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_ingest_owner.py",
+    "mode": 420,
+    "sha256": "5048ce396455950b419b79b82f753a2df81669ca295e42bdb85f2082a24cd54f"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_is_client.py",
+    "mode": 420,
+    "sha256": "e5c498ef59f66b96957b55cf6368569ed561e444198da4b53aba866ba8235106"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_is_transport_v1.py",
+    "mode": 420,
+    "sha256": "a2b9d8edeff21bf227e39cf5d979406171be009e73e5c79592847d5ca053f8ff"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_live_runtime.py",
+    "mode": 420,
+    "sha256": "ce75ebb63978c8ce4fa6cfd3dff75df79d25aed5309e24f094a84a02f9e6aee8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_model.py",
+    "mode": 420,
+    "sha256": "1366fa9881abec0748b7e791acffeeffaf10972755f81aca8be91e4053220cf8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_parser.py",
+    "mode": 420,
+    "sha256": "294eb7ce2156e41a73df92ede5271ebb4a40e56757c0de12e22f554bc422f0a3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_store.py",
+    "mode": 420,
+    "sha256": "089b6f1015df78465982372cfd64479798259c94ad2dc1d0c1c28327dad78cbf"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/aprs_sync_provider.py",
+    "mode": 420,
+    "sha256": "478ab4e0bd70c95e61b0e37593cfbbeb33fb41edc2813b1968d3749fbb23ca55"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/base_direct_aprs_is_control.py",
+    "mode": 420,
+    "sha256": "312c0c387ab4af25be3b7bc3728ed3f36432e84b0a25523de39125d194b9d085"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/base_direct_aprs_is_gui_transport.py",
+    "mode": 420,
+    "sha256": "2ec035c1fcb4fa4c33b729e66ed2f1e07caa768f09eff392f2353d0438b79c6f"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/bootstrap_config.py",
+    "mode": 420,
+    "sha256": "060b6d50b3290c56528851c83f517844952ad39c43fa99420fb090fdbbcac355"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/branding.py",
+    "mode": 420,
+    "sha256": "f28c8e71062ea6031f8bfa27b95e10267d06a1f92db2aefc819cd161cf3e0f50"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/capabilities.py",
+    "mode": 420,
+    "sha256": "f953e0ae8780a29c704e6f6d407937e6beebe7321e6df8f7a647a755c3b64658"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/contacts.py",
+    "mode": 420,
+    "sha256": "3795d83bd98454f643f6c1060d8bdcd12e428750fd701849e598e6b3b89b56c2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/device_setup.py",
+    "mode": 420,
+    "sha256": "03c5aab64f8d9006fa1afe1c81afcc50c56da3021f79da2cccc3bd18fdfa0ff2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/diagnostics.py",
+    "mode": 420,
+    "sha256": "b09fb6cbb07b4d54fe8fd1ea4242dcb8feb61e853ea2fc2e1019416b07680544"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/durable_update.py",
+    "mode": 420,
+    "sha256": "13006df841a08b59989a7b4a5c76545f67067701d8e0eefb20ea11d59fd9710a"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/emergency_templates.py",
+    "mode": 420,
+    "sha256": "52204d3c2acf6fca59b099afb81a5c908fff7794af8ef85ba57213a962207620"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/export_utils.py",
+    "mode": 420,
+    "sha256": "8685f04ba7f11e04d8ab8e7c085bb9b7d87c769edb7a909703d8c96595efeade"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/field_base_parity_policy.py",
+    "mode": 420,
+    "sha256": "21e0f848143e8daeb9b05b6cfe9a16cc8f572da2d601df8729df1d6c0e4b6fca"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/first_run.py",
+    "mode": 420,
+    "sha256": "b34b9a7d5eb298faf8261d376c590fae6c33bf57f17667c3671b03d8be4d6fe9"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/gutodiag.py",
+    "mode": 420,
+    "sha256": "d86b6e0fbcb404fda52f06b33a5562b6f14216914b637077015fafe506c14e5e"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/hardware_profile.py",
+    "mode": 420,
+    "sha256": "441c251373e06af786764e49aba8a143fe15674c0ecf146b4e50caa0ca5452a6"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/hardware_profile_migration.py",
+    "mode": 420,
+    "sha256": "8d118c3b3ba529031334c3467ab15e6077fb66a1b30aa39f3d953999695ffecb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/hardware_profile_runtime.py",
+    "mode": 420,
+    "sha256": "546f063eeb4beb13cdc1e07e4c79e7998948a21ee1fd82200a542aa1025e0f07"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/i18n.py",
+    "mode": 420,
+    "sha256": "a7d46faa91d6b90d9415d5670504f6cc2e37be8d48603a07f386e07d86d116de"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/installer_broker.py",
+    "mode": 420,
+    "sha256": "14da409144edb5b4f3690f35cbbb05d1f18c41d8989d4f86672ef3577988cd96"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/installer_client.py",
+    "mode": 420,
+    "sha256": "ea4f217a2769f2e2b00beb3ad79985162d925133969a9f54bbb1db2896f8565f"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/installer_contract.py",
+    "mode": 420,
+    "sha256": "1992167c864ccfe5e2f2de6a7c04e54e8e880d757695406ab1d7ee52eb503673"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/installer_runtime.py",
+    "mode": 420,
+    "sha256": "adbdaf3c014aa00e3ff3e7bddcee1d091699ef9d4ad72615ff149e5efbfa0a80"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/installer_security.py",
+    "mode": 420,
+    "sha256": "6bc3518554a459811003c9b5ff46f705e2b74f4c1cade673c41f2ecb21735028"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/integrity_status_record.py",
+    "mode": 420,
+    "sha256": "e298b937edde8150965bc14213dd6f61a29578d2969f0c75600772926cd99b0d"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/lc3_replay_store.py",
+    "mode": 420,
+    "sha256": "1eda4f3dccab1854c73ee34d753b7f873d25687a883d26bcbbf9f6cfabfcb510"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/lorachat.py",
+    "mode": 420,
+    "sha256": "b61f5b23cb565f9d3cf6ac70700ca4b0ad99e6d56a6606cde1c58cc069a17cc9"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/lorad.py",
+    "mode": 420,
+    "sha256": "dbacb92cb9e6aa2c7ae6616af978db6dd30f5dab974da172ef31bdc9c9980095"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_mode_control.py",
+    "mode": 420,
+    "sha256": "49b723904c0952cfafecb748da6cb73f86a0419f5e700693dcdf1883c7561550"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_package_operator.py",
+    "mode": 420,
+    "sha256": "7f39e54b15756beee8879c61fcefde9da80bb66b146c2eb861316bfa5480e4fd"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_position_provider.py",
+    "mode": 420,
+    "sha256": "410f922b00ab415d93c1f6ff9ea87ce1b03c499de7fcf7dd2ff42e14b5ae4dd8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_arm_v1.py",
+    "mode": 420,
+    "sha256": "33b233e5e1b0c3be36701963e8cacce81558964276519efc841b9e5e7c2652b8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_credentials_v2.py",
+    "mode": 420,
+    "sha256": "fbc4e9a1c14ce6a5a926535fffdd1323f663cf8e49f960748fdae62644e715bb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_host_control_client_v1.py",
+    "mode": 420,
+    "sha256": "8e9adff7a22efaa2ac8700e68494ee37b2b5b6fb3500db16abf4dda598a0e0bb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_host_runtime_status_v1.py",
+    "mode": 420,
+    "sha256": "74165e2ac953e0182344155c8eb22813870f53025e5df6a4515d53b5113ed72b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_meshbridge_proxy_adapter_v3.py",
+    "mode": 420,
+    "sha256": "36d54b16e2bb85580532d0471e48a7a912d46f70abe0939158ed49470873a937"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_mqtt311_publish_only_v1.py",
+    "mode": 420,
+    "sha256": "dc91b18e67f7f6e4dcee5990006e99bad5a690e950d5e4386e207e5feb37d1ed"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_mqtt311_publish_only_v2.py",
+    "mode": 420,
+    "sha256": "f06446cd65356cfb370a80659966532c30d02f0e0be6485993868e6c82bf3ed3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_contract_v2.py",
+    "mode": 420,
+    "sha256": "7649234b6333cca6e31d2db4493cd64225b406bc83bd8c66e0dba6c56b3ec2bf"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_contract_v3.py",
+    "mode": 420,
+    "sha256": "d81410e45a9f92af5cf1646fa07e30600c1ea57a27ab79f81677b7b1519d92f4"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_controller_v2.py",
+    "mode": 420,
+    "sha256": "add0547b96b4242904b66d1101aadf5e254e4ac6da2df336da40e4164be6db67"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_controller_v3.py",
+    "mode": 420,
+    "sha256": "b2f9bd92ec20a0fb73d8253f719be8979c668bad733186f325891594d8401a4a"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_feed_v2.py",
+    "mode": 420,
+    "sha256": "d52ebbe8ff40fcc6d2c2bb451fc9f0d92eee6b4537eb77028600186ff88b94da"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_feed_v3.py",
+    "mode": 420,
+    "sha256": "e297c15dd0de4e8facd37181bbe8625d0a39da31241c5c0c01bd692651297ce9"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_runtime_v2.py",
+    "mode": 420,
+    "sha256": "991d0f21ba6aaa5821e860aa243bf3caefd023641775ef8ca0c8c4b9d12996f2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_runtime_v3.py",
+    "mode": 420,
+    "sha256": "296da276b421c01a75c61a6dcc6de9a9723fbb66ea1cdd6f03371a416325c52b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_runtime_v4.py",
+    "mode": 420,
+    "sha256": "4859af7fac71f4330d089929b9ff73121bb766b663e5f8ee7ad7935e8aa4b2db"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_runtime_v5.py",
+    "mode": 420,
+    "sha256": "4714d353d49bb91c34579f2be67ca70e3d38b5d98dae3172b5b20f51bc97a7f1"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_runtime_v6.py",
+    "mode": 420,
+    "sha256": "38c2e4a1dd6b15966dda3e535a1835e9b0cbefd5f7ddabc36a889e876597e99c"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_runtime_v7r2.py",
+    "mode": 420,
+    "sha256": "8697b0ae1891e976e39fb254852a3093d990b4843321853f44e812f04f7b952b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_proxy_runtime_v7r3.py",
+    "mode": 420,
+    "sha256": "6e905ab28bc84f4c7cd1c2b751009f001217d5527c085055b2e5c85587385abf"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_pub_remote_status_v1.py",
+    "mode": 420,
+    "sha256": "7bc244be511a3d5c7cb18e94d77c0b2b9e4ba306772a7c9125c0565cd75df8af"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_publication_control_authorization_v3.py",
+    "mode": 420,
+    "sha256": "586c67264246fe3a57c2aa46207a74d8e9d073307940066c61d6e9eba0512abb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_publication_gui_arm_v2.py",
+    "mode": 420,
+    "sha256": "8f8ce85b0f26adb986a746364f636379c66824e21ca668af9f7b9becbc94c155"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_publication_transport_authorization_v1.py",
+    "mode": 420,
+    "sha256": "3d411f0141d9725ec675cb782f45a74b2a9f8bd5286c7a335ef06b82885d138d"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_publication_transport_v1.py",
+    "mode": 420,
+    "sha256": "d70221ca155731436af388bc8335cda8bf16c9278c460960471e8c82615a2bde"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_temporal_presentation.py",
+    "mode": 420,
+    "sha256": "7503f1ab68b8ba2ed8fa31658d7f0dfac133e81243f1e26bb8e729f62a795f60"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/map_viewport_presentation.py",
+    "mode": 420,
+    "sha256": "79ff0b2bcecc75a8a5571ba12f9714b0b692187dbb514c232f45694916e08470"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/mesh_receive_health.py",
+    "mode": 420,
+    "sha256": "f893e748d2566b007d1a7b5b5177b2627a19e33948035282583b1f0ac7328634"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/meshbridge.py",
+    "mode": 420,
+    "sha256": "bb374482fbaea109ac4de14b3b76e1ffc6381e913dc1380d713a607dbac2fe16"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/message_store.py",
+    "mode": 420,
+    "sha256": "76da35dfadf82f53ae34c031f6c417b7353dfb4b5bb1efe5785fd762e013f4d4"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/module_selection.py",
+    "mode": 420,
+    "sha256": "4b36e434b06cfac9bd249294501e1e3a39660b4a7ab95846fc6fc7735ee14b3b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/node_catalog.py",
+    "mode": 420,
+    "sha256": "c6b403455aa087326f76fc9483e3fdb9ac3ccacbb0963bfc726884fbb967aa34"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/offline_map.py",
+    "mode": 420,
+    "sha256": "098e3350f42c70661f7bf5c2b2d66e52749c9fc328e19b4e02c67e5f6d021a1e"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/online_map.py",
+    "mode": 420,
+    "sha256": "4adf3aa10aa746321a31fef12b53031ac206c7f3a143111f4ecffbe05c01ee83"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/position_export.py",
+    "mode": 420,
+    "sha256": "ae3b2fca70d759f9b4e4ee8c91ac0805801f9f120d42662a272b8a1cb2463971"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/position_migration.py",
+    "mode": 420,
+    "sha256": "cfbe3f331e0c9720b43a06d46efd6eacb292963eb5289fea579300414d984cba"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/position_store.py",
+    "mode": 420,
+    "sha256": "749d4c10e782dfe9877135bed1e6710d21de75a021504b02bf47e7ae7197c9f9"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/preflight.py",
+    "mode": 420,
+    "sha256": "59dd7722a21a09eb2de03b061356fda346d5f308afeff90b44d8b317c487820e"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/product_backup.py",
+    "mode": 420,
+    "sha256": "c188ac7c05b43661fe335498ec68b91b34d24ee8c5d051669f631879529f6a5d"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/product_restore_dry_run.py",
+    "mode": 420,
+    "sha256": "df41c22ee87917ee612a10c4a4eace61e8dd60d2e034f554ac816a1c0382e878"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/product_restore_isolated.py",
+    "mode": 420,
+    "sha256": "e9a3be10c48bb44558dcfefd6c6f8aece27e038642b48ffbdf388f3658a9de01"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/protocol.py",
+    "mode": 420,
+    "sha256": "ee95ce973d1cc8031bba7d6dc5a0726f352fc383d8fa527e4b19889f382d23e8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/publication_binding.py",
+    "mode": 420,
+    "sha256": "bc5246bb066e549d22de994e98d93da1db42916889296c7d3177b2ff360b1d67"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/remote_base_control.py",
+    "mode": 420,
+    "sha256": "831841a1044b8ef8f4b28b4963a9199b3f7bd150e563d60782a2f2d1d014dd71"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/roles.py",
+    "mode": 420,
+    "sha256": "4f025705680c6a6704f4894e05e6be1abee0e9d964eedd88730a1af98d5394cc"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/secure_mbtiles_installer.py",
+    "mode": 420,
+    "sha256": "605ae439167df5ac2700746f3013927d5fe3c276994f5cf108ab33b04d07a55e"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/setup_coordinator.py",
+    "mode": 420,
+    "sha256": "aceead7e6ddd88fd4ac26271e99a0ffbf5b0f082e82c39ab8fdae2f87967fb72"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/setup_job.py",
+    "mode": 420,
+    "sha256": "d7e4e1ddb2f29fcdf43d0bd643e201e434c6bcfa6094c3bfb76310aa449b0aa7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/setup_ui.py",
+    "mode": 420,
+    "sha256": "5cd4afa6de14ee2df2f7f4bb1585ad9d6e5ceb1482e6230e5d5d8a5b7f39e155"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/setup_ui_control.py",
+    "mode": 420,
+    "sha256": "0f3915fa3946043a663fe3daf289e5c96bcf8577db8f95de2d9cb30992fe24c0"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/sqlite_resilience.py",
+    "mode": 420,
+    "sha256": "58a4ecfaeec72c9da737a0fda2fcd6cd869f1cbd17e38d04ea08921e972de619"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/sx126x.py",
+    "mode": 420,
+    "sha256": "80a0e3dd35b4bed545c7de0f669fb433b0d5fea403f07f8773ec1c4df8dd5815"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/BASE/template_placeholders.py",
+    "mode": 420,
+    "sha256": "2e36f96dd2a5265bb5759da33aa64ff97ec8f1cdd1aa9ae373f4ea89b4a1225c"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/activation.py",
+    "mode": 420,
+    "sha256": "2c68a9c8ee60805de43bec1c3bb693707e6d03415a2200591db640a3d23050b7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/adapter_catalog.py",
+    "mode": 420,
+    "sha256": "4d68c49a7a0d6de1290ac5d8380cd6fd339518b87efbc3ae855ce23009633b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/adapter_health.py",
+    "mode": 420,
+    "sha256": "14bc68789e5a667a65ceeb3d78442f68ad910b24bfff2679eb41fb822cc4d5f7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/adapter_manifest.py",
+    "mode": 420,
+    "sha256": "824ff0346b20dab44284bcb9191516c501967faef368fb14c9586ff3d88e8b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/api_security.py",
+    "mode": 420,
+    "sha256": "f81fe756a25fc2583b4262344d03a305a592cfe2d9ded1a2d21f0a6c94f60239"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/aprs_is_client.py",
+    "mode": 420,
+    "sha256": "767b793fd91c729dcb466e7ff88aff78892b7776a392e9e43c53be6b7a346d85"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/aprs_model.py",
+    "mode": 420,
+    "sha256": "1366fa9881abec0748b7e791acffeeffaf10972755f81aca8be91e4053220cf8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/aprs_parser.py",
+    "mode": 420,
+    "sha256": "294eb7ce2156e41a73df92ede5271ebb4a40e56757c0de12e22f554bc422f0a3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/aprs_replica_store.py",
+    "mode": 420,
+    "sha256": "fa9acf6f6dad8833a444586c57ac3ce512402724cda758876045dd1fcfb9f109"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/aprs_store.py",
+    "mode": 420,
+    "sha256": "089b6f1015df78465982372cfd64479798259c94ad2dc1d0c1c28327dad78cbf"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/bootstrap_config.py",
+    "mode": 420,
+    "sha256": "060b6d50b3290c56528851c83f517844952ad39c43fa99420fb090fdbbcac355"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/branding.py",
+    "mode": 420,
+    "sha256": "f28c8e71062ea6031f8bfa27b95e10267d06a1f92db2aefc819cd161cf3e0f50"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/capabilities.py",
+    "mode": 420,
+    "sha256": "f953e0ae8780a29c704e6f6d407937e6beebe7321e6df8f7a647a755c3b64658"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/contacts.py",
+    "mode": 420,
+    "sha256": "3795d83bd98454f643f6c1060d8bdcd12e428750fd701849e598e6b3b89b56c2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/device_setup.py",
+    "mode": 420,
+    "sha256": "03c5aab64f8d9006fa1afe1c81afcc50c56da3021f79da2cccc3bd18fdfa0ff2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/diagnostics.py",
+    "mode": 420,
+    "sha256": "b09fb6cbb07b4d54fe8fd1ea4242dcb8feb61e853ea2fc2e1019416b07680544"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/durable_update.py",
+    "mode": 420,
+    "sha256": "13006df841a08b59989a7b4a5c76545f67067701d8e0eefb20ea11d59fd9710a"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/emergency_templates.py",
+    "mode": 420,
+    "sha256": "52204d3c2acf6fca59b099afb81a5c908fff7794af8ef85ba57213a962207620"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/export_utils.py",
+    "mode": 420,
+    "sha256": "8685f04ba7f11e04d8ab8e7c085bb9b7d87c769edb7a909703d8c96595efeade"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/field_aprs_is_gui_adapter.py",
+    "mode": 420,
+    "sha256": "2b1410337ebaae672de8bb4ec46110a9932b8481f3deecc18b3236877ac1b9d7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/field_aprs_is_live_control.py",
+    "mode": 420,
+    "sha256": "6770ad6eef2ccf21daee7613f67d04e746266b4bd6a3ad92133ebe3da0baf247"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/field_aprs_is_live_gui_control.py",
+    "mode": 420,
+    "sha256": "a91392d4eef0b99f67193b06bf04d943872229f4946f50a580ed685674277b34"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/field_aprs_is_presentation.py",
+    "mode": 420,
+    "sha256": "75ec86d85fb661028ff78285d22727021a7198aae26a3cfa43ed9d494bdf16dc"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/field_base_parity_policy.py",
+    "mode": 420,
+    "sha256": "21e0f848143e8daeb9b05b6cfe9a16cc8f572da2d601df8729df1d6c0e4b6fca"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/first_run.py",
+    "mode": 420,
+    "sha256": "b34b9a7d5eb298faf8261d376c590fae6c33bf57f17667c3671b03d8be4d6fe9"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/gutodiag.py",
+    "mode": 420,
+    "sha256": "d86b6e0fbcb404fda52f06b33a5562b6f14216914b637077015fafe506c14e5e"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/hardware_profile.py",
+    "mode": 420,
+    "sha256": "441c251373e06af786764e49aba8a143fe15674c0ecf146b4e50caa0ca5452a6"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/hardware_profile_migration.py",
+    "mode": 420,
+    "sha256": "8d118c3b3ba529031334c3467ab15e6077fb66a1b30aa39f3d953999695ffecb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/hardware_profile_runtime.py",
+    "mode": 420,
+    "sha256": "546f063eeb4beb13cdc1e07e4c79e7998948a21ee1fd82200a542aa1025e0f07"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/i18n.py",
+    "mode": 420,
+    "sha256": "8595dc1679424e07b99256cd3ca425d21dceea0d0c359dbe729707eaf8c67e9a"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/installer_broker.py",
+    "mode": 420,
+    "sha256": "14da409144edb5b4f3690f35cbbb05d1f18c41d8989d4f86672ef3577988cd96"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/installer_client.py",
+    "mode": 420,
+    "sha256": "ea4f217a2769f2e2b00beb3ad79985162d925133969a9f54bbb1db2896f8565f"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/installer_contract.py",
+    "mode": 420,
+    "sha256": "1992167c864ccfe5e2f2de6a7c04e54e8e880d757695406ab1d7ee52eb503673"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/installer_runtime.py",
+    "mode": 420,
+    "sha256": "adbdaf3c014aa00e3ff3e7bddcee1d091699ef9d4ad72615ff149e5efbfa0a80"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/installer_security.py",
+    "mode": 420,
+    "sha256": "6bc3518554a459811003c9b5ff46f705e2b74f4c1cade673c41f2ecb21735028"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/integrity_status_record.py",
+    "mode": 420,
+    "sha256": "e298b937edde8150965bc14213dd6f61a29578d2969f0c75600772926cd99b0d"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/lc3_replay_store.py",
+    "mode": 420,
+    "sha256": "1eda4f3dccab1854c73ee34d753b7f873d25687a883d26bcbbf9f6cfabfcb510"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/lorachat.py",
+    "mode": 420,
+    "sha256": "e60a7a2ba3648e87c731d87e9105665380e1bbf94e32f612e8df8787b1fb1351"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/lorad.py",
+    "mode": 420,
+    "sha256": "dbacb92cb9e6aa2c7ae6616af978db6dd30f5dab974da172ef31bdc9c9980095"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_mode_control.py",
+    "mode": 420,
+    "sha256": "49b723904c0952cfafecb748da6cb73f86a0419f5e700693dcdf1883c7561550"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_package_operator.py",
+    "mode": 420,
+    "sha256": "7f39e54b15756beee8879c61fcefde9da80bb66b146c2eb861316bfa5480e4fd"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_position_provider.py",
+    "mode": 420,
+    "sha256": "410f922b00ab415d93c1f6ff9ea87ce1b03c499de7fcf7dd2ff42e14b5ae4dd8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_arm_v1.py",
+    "mode": 420,
+    "sha256": "33b233e5e1b0c3be36701963e8cacce81558964276519efc841b9e5e7c2652b8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_credentials_v2.py",
+    "mode": 420,
+    "sha256": "fbc4e9a1c14ce6a5a926535fffdd1323f663cf8e49f960748fdae62644e715bb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_field_status_v1.py",
+    "mode": 420,
+    "sha256": "6dc40ae06fecb3b740b6037de70293cfdd74efee68c828f30bd93f5bfed42445"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_host_control_client_v1.py",
+    "mode": 420,
+    "sha256": "8e9adff7a22efaa2ac8700e68494ee37b2b5b6fb3500db16abf4dda598a0e0bb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_host_runtime_status_v1.py",
+    "mode": 420,
+    "sha256": "74165e2ac953e0182344155c8eb22813870f53025e5df6a4515d53b5113ed72b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_meshbridge_proxy_adapter_v3.py",
+    "mode": 420,
+    "sha256": "36d54b16e2bb85580532d0471e48a7a912d46f70abe0939158ed49470873a937"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_mqtt311_publish_only_v1.py",
+    "mode": 420,
+    "sha256": "dc91b18e67f7f6e4dcee5990006e99bad5a690e950d5e4386e207e5feb37d1ed"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_mqtt311_publish_only_v2.py",
+    "mode": 420,
+    "sha256": "f06446cd65356cfb370a80659966532c30d02f0e0be6485993868e6c82bf3ed3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_contract_v2.py",
+    "mode": 420,
+    "sha256": "7649234b6333cca6e31d2db4493cd64225b406bc83bd8c66e0dba6c56b3ec2bf"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_contract_v3.py",
+    "mode": 420,
+    "sha256": "d81410e45a9f92af5cf1646fa07e30600c1ea57a27ab79f81677b7b1519d92f4"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_controller_v2.py",
+    "mode": 420,
+    "sha256": "add0547b96b4242904b66d1101aadf5e254e4ac6da2df336da40e4164be6db67"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_controller_v3.py",
+    "mode": 420,
+    "sha256": "b2f9bd92ec20a0fb73d8253f719be8979c668bad733186f325891594d8401a4a"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_feed_v2.py",
+    "mode": 420,
+    "sha256": "d52ebbe8ff40fcc6d2c2bb451fc9f0d92eee6b4537eb77028600186ff88b94da"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_feed_v3.py",
+    "mode": 420,
+    "sha256": "e297c15dd0de4e8facd37181bbe8625d0a39da31241c5c0c01bd692651297ce9"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_runtime_v2.py",
+    "mode": 420,
+    "sha256": "991d0f21ba6aaa5821e860aa243bf3caefd023641775ef8ca0c8c4b9d12996f2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_runtime_v3.py",
+    "mode": 420,
+    "sha256": "296da276b421c01a75c61a6dcc6de9a9723fbb66ea1cdd6f03371a416325c52b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_runtime_v4.py",
+    "mode": 420,
+    "sha256": "4859af7fac71f4330d089929b9ff73121bb766b663e5f8ee7ad7935e8aa4b2db"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_runtime_v5.py",
+    "mode": 420,
+    "sha256": "4714d353d49bb91c34579f2be67ca70e3d38b5d98dae3172b5b20f51bc97a7f1"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_runtime_v6.py",
+    "mode": 420,
+    "sha256": "38c2e4a1dd6b15966dda3e535a1835e9b0cbefd5f7ddabc36a889e876597e99c"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_runtime_v7r2.py",
+    "mode": 420,
+    "sha256": "8697b0ae1891e976e39fb254852a3093d990b4843321853f44e812f04f7b952b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_proxy_runtime_v7r3.py",
+    "mode": 420,
+    "sha256": "6e905ab28bc84f4c7cd1c2b751009f001217d5527c085055b2e5c85587385abf"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_pub_remote_status_v1.py",
+    "mode": 420,
+    "sha256": "7bc244be511a3d5c7cb18e94d77c0b2b9e4ba306772a7c9125c0565cd75df8af"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_publication_control_authorization_v3.py",
+    "mode": 420,
+    "sha256": "586c67264246fe3a57c2aa46207a74d8e9d073307940066c61d6e9eba0512abb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_publication_gui_arm_v2.py",
+    "mode": 420,
+    "sha256": "8f8ce85b0f26adb986a746364f636379c66824e21ca668af9f7b9becbc94c155"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_publication_transport_authorization_v1.py",
+    "mode": 420,
+    "sha256": "3d411f0141d9725ec675cb782f45a74b2a9f8bd5286c7a335ef06b82885d138d"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_publication_transport_v1.py",
+    "mode": 420,
+    "sha256": "d70221ca155731436af388bc8335cda8bf16c9278c460960471e8c82615a2bde"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_temporal_presentation.py",
+    "mode": 420,
+    "sha256": "7503f1ab68b8ba2ed8fa31658d7f0dfac133e81243f1e26bb8e729f62a795f60"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/map_viewport_presentation.py",
+    "mode": 420,
+    "sha256": "79ff0b2bcecc75a8a5571ba12f9714b0b692187dbb514c232f45694916e08470"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/mesh_receive_health.py",
+    "mode": 420,
+    "sha256": "f893e748d2566b007d1a7b5b5177b2627a19e33948035282583b1f0ac7328634"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/meshbridge.py",
+    "mode": 420,
+    "sha256": "627d96ddd3dbf151d4217d354516893c1928315099b1a2081e0eb42c87d69400"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/message_store.py",
+    "mode": 420,
+    "sha256": "fcaa8cf53fd051072265ce72974a5aa909403a9ac9f4280bee53a7fe11123ebf"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/module_selection.py",
+    "mode": 420,
+    "sha256": "4b36e434b06cfac9bd249294501e1e3a39660b4a7ab95846fc6fc7735ee14b3b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/node_catalog.py",
+    "mode": 420,
+    "sha256": "c6b403455aa087326f76fc9483e3fdb9ac3ccacbb0963bfc726884fbb967aa34"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/offline_map.py",
+    "mode": 420,
+    "sha256": "0a66820b914b6e8455b0acbcda21d60df287b687c898262b57f1baef9df75f03"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/online_map.py",
+    "mode": 420,
+    "sha256": "4adf3aa10aa746321a31fef12b53031ac206c7f3a143111f4ecffbe05c01ee83"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/position_export.py",
+    "mode": 420,
+    "sha256": "ae3b2fca70d759f9b4e4ee8c91ac0805801f9f120d42662a272b8a1cb2463971"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/position_migration.py",
+    "mode": 420,
+    "sha256": "cfbe3f331e0c9720b43a06d46efd6eacb292963eb5289fea579300414d984cba"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/position_store.py",
+    "mode": 420,
+    "sha256": "749d4c10e782dfe9877135bed1e6710d21de75a021504b02bf47e7ae7197c9f9"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/preflight.py",
+    "mode": 420,
+    "sha256": "59dd7722a21a09eb2de03b061356fda346d5f308afeff90b44d8b317c487820e"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/product_backup.py",
+    "mode": 420,
+    "sha256": "c188ac7c05b43661fe335498ec68b91b34d24ee8c5d051669f631879529f6a5d"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/product_restore_dry_run.py",
+    "mode": 420,
+    "sha256": "df41c22ee87917ee612a10c4a4eace61e8dd60d2e034f554ac816a1c0382e878"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/product_restore_isolated.py",
+    "mode": 420,
+    "sha256": "e9a3be10c48bb44558dcfefd6c6f8aece27e038642b48ffbdf388f3658a9de01"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/protocol.py",
+    "mode": 420,
+    "sha256": "ee95ce973d1cc8031bba7d6dc5a0726f352fc383d8fa527e4b19889f382d23e8"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/publication_binding.py",
+    "mode": 420,
+    "sha256": "bc5246bb066e549d22de994e98d93da1db42916889296c7d3177b2ff360b1d67"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/roles.py",
+    "mode": 420,
+    "sha256": "4f025705680c6a6704f4894e05e6be1abee0e9d964eedd88730a1af98d5394cc"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/secure_mbtiles_installer.py",
+    "mode": 420,
+    "sha256": "605ae439167df5ac2700746f3013927d5fe3c276994f5cf108ab33b04d07a55e"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/setup_coordinator.py",
+    "mode": 420,
+    "sha256": "aceead7e6ddd88fd4ac26271e99a0ffbf5b0f082e82c39ab8fdae2f87967fb72"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/setup_job.py",
+    "mode": 420,
+    "sha256": "d7e4e1ddb2f29fcdf43d0bd643e201e434c6bcfa6094c3bfb76310aa449b0aa7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/setup_ui.py",
+    "mode": 420,
+    "sha256": "5cd4afa6de14ee2df2f7f4bb1585ad9d6e5ceb1482e6230e5d5d8a5b7f39e155"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/setup_ui_control.py",
+    "mode": 420,
+    "sha256": "0f3915fa3946043a663fe3daf289e5c96bcf8577db8f95de2d9cb30992fe24c0"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/sqlite_resilience.py",
+    "mode": 420,
+    "sha256": "58a4ecfaeec72c9da737a0fda2fcd6cd869f1cbd17e38d04ea08921e972de619"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/sx126x.py",
+    "mode": 420,
+    "sha256": "80a0e3dd35b4bed545c7de0f669fb433b0d5fea403f07f8773ec1c4df8dd5815"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/app/FIELD/template_placeholders.py",
+    "mode": 420,
+    "sha256": "2e36f96dd2a5265bb5759da33aa64ff97ec8f1cdd1aa9ae373f4ea89b4a1225c"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/broker_entry.py",
+    "mode": 420,
+    "sha256": "93e4149e96f63e44f1bd9d96d3da0e92a6d132d5acd0a70ad03ed906871135d4"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/core_entry.py",
+    "mode": 420,
+    "sha256": "6b5b712251a96a2aadde9cee84ff2a313d163211c26d16505559e88b8148bbbb"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/dependency_probe.py",
+    "mode": 420,
+    "sha256": "1c3cc50ffb03a598926f8a4392247f0699163a40592b53b202141edf1a2148f3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/driver_probe.py",
+    "mode": 420,
+    "sha256": "d11766b48f003514a977834c261c4d6e93af0ddeb91add88394c5f9875a4a41f"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/gui_entry.py",
+    "mode": 420,
+    "sha256": "70f0f689d89c2af06b6a5975f1e978e8a86624e4422c2768ef79d70b13e54eb7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/layout.py",
+    "mode": 420,
+    "sha256": "02895fca21cdbc1d2e399e602731d11888a9ad893db0b572550f04634553bf01"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/module_commission.py",
+    "mode": 420,
+    "sha256": "6bbe04294f737d217b17fdea0c93c0f9e448c9aee473f021f1126acd7b477985"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/module_install.py",
+    "mode": 420,
+    "sha256": "12488ec4a2875692017c8b0f4440eeffc6c1e06c4ce296d3085490e8615e5996"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/module_lifecycle.py",
+    "mode": 420,
+    "sha256": "0951b6f27fda4cef8aba2c3183f023f8db6e1b090647fd0bb4d0b47fc5ad72fe"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/module_setup_ui.py",
+    "mode": 420,
+    "sha256": "2bcd003ed5ca822cbb718931be86541e62f7c3a3e3bccb46699fd4edb55b5182"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/protected_module_store.py",
+    "mode": 420,
+    "sha256": "f0669dd877b27449d4e6f76fe59c882c313e0a519a1dc600ae4a29b27a1bee13"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/activation.py",
+    "mode": 420,
+    "sha256": "2c68a9c8ee60805de43bec1c3bb693707e6d03415a2200591db640a3d23050b7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/adapter_catalog.py",
+    "mode": 420,
+    "sha256": "4d68c49a7a0d6de1290ac5d8380cd6fd339518b87efbc3ae855ce23009633b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/adapter_health.py",
+    "mode": 420,
+    "sha256": "14bc68789e5a667a65ceeb3d78442f68ad910b24bfff2679eb41fb822cc4d5f7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/adapter_manifest.py",
+    "mode": 420,
+    "sha256": "824ff0346b20dab44284bcb9191516c501967faef368fb14c9586ff3d88e8b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/capabilities.py",
+    "mode": 420,
+    "sha256": "f953e0ae8780a29c704e6f6d407937e6beebe7321e6df8f7a647a755c3b64658"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/device_setup.py",
+    "mode": 420,
+    "sha256": "03c5aab64f8d9006fa1afe1c81afcc50c56da3021f79da2cccc3bd18fdfa0ff2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/hardware_profile.py",
+    "mode": 420,
+    "sha256": "441c251373e06af786764e49aba8a143fe15674c0ecf146b4e50caa0ca5452a6"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/hardware_profile_runtime.py",
+    "mode": 420,
+    "sha256": "546f063eeb4beb13cdc1e07e4c79e7998948a21ee1fd82200a542aa1025e0f07"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/installer_broker.py",
+    "mode": 420,
+    "sha256": "14da409144edb5b4f3690f35cbbb05d1f18c41d8989d4f86672ef3577988cd96"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/installer_client.py",
+    "mode": 420,
+    "sha256": "ea4f217a2769f2e2b00beb3ad79985162d925133969a9f54bbb1db2896f8565f"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/installer_runtime.py",
+    "mode": 420,
+    "sha256": "adbdaf3c014aa00e3ff3e7bddcee1d091699ef9d4ad72615ff149e5efbfa0a80"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/installer_security.py",
+    "mode": 420,
+    "sha256": "6bc3518554a459811003c9b5ff46f705e2b74f4c1cade673c41f2ecb21735028"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/module_selection.py",
+    "mode": 420,
+    "sha256": "4b36e434b06cfac9bd249294501e1e3a39660b4a7ab95846fc6fc7735ee14b3b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/publication_binding.py",
+    "mode": 420,
+    "sha256": "bc5246bb066e549d22de994e98d93da1db42916889296c7d3177b2ff360b1d67"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/BASE/setup_job.py",
+    "mode": 420,
+    "sha256": "d7e4e1ddb2f29fcdf43d0bd643e201e434c6bcfa6094c3bfb76310aa449b0aa7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/activation.py",
+    "mode": 420,
+    "sha256": "2c68a9c8ee60805de43bec1c3bb693707e6d03415a2200591db640a3d23050b7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/adapter_catalog.py",
+    "mode": 420,
+    "sha256": "4d68c49a7a0d6de1290ac5d8380cd6fd339518b87efbc3ae855ce23009633b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/adapter_health.py",
+    "mode": 420,
+    "sha256": "14bc68789e5a667a65ceeb3d78442f68ad910b24bfff2679eb41fb822cc4d5f7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/adapter_manifest.py",
+    "mode": 420,
+    "sha256": "824ff0346b20dab44284bcb9191516c501967faef368fb14c9586ff3d88e8b64"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/capabilities.py",
+    "mode": 420,
+    "sha256": "f953e0ae8780a29c704e6f6d407937e6beebe7321e6df8f7a647a755c3b64658"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/device_setup.py",
+    "mode": 420,
+    "sha256": "03c5aab64f8d9006fa1afe1c81afcc50c56da3021f79da2cccc3bd18fdfa0ff2"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/hardware_profile.py",
+    "mode": 420,
+    "sha256": "441c251373e06af786764e49aba8a143fe15674c0ecf146b4e50caa0ca5452a6"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/hardware_profile_runtime.py",
+    "mode": 420,
+    "sha256": "546f063eeb4beb13cdc1e07e4c79e7998948a21ee1fd82200a542aa1025e0f07"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/installer_broker.py",
+    "mode": 420,
+    "sha256": "14da409144edb5b4f3690f35cbbb05d1f18c41d8989d4f86672ef3577988cd96"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/installer_client.py",
+    "mode": 420,
+    "sha256": "ea4f217a2769f2e2b00beb3ad79985162d925133969a9f54bbb1db2896f8565f"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/installer_runtime.py",
+    "mode": 420,
+    "sha256": "adbdaf3c014aa00e3ff3e7bddcee1d091699ef9d4ad72615ff149e5efbfa0a80"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/installer_security.py",
+    "mode": 420,
+    "sha256": "6bc3518554a459811003c9b5ff46f705e2b74f4c1cade673c41f2ecb21735028"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/module_selection.py",
+    "mode": 420,
+    "sha256": "4b36e434b06cfac9bd249294501e1e3a39660b4a7ab95846fc6fc7735ee14b3b"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/publication_binding.py",
+    "mode": 420,
+    "sha256": "bc5246bb066e549d22de994e98d93da1db42916889296c7d3177b2ff360b1d67"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/runtime/FIELD/setup_job.py",
+    "mode": 420,
+    "sha256": "d7e4e1ddb2f29fcdf43d0bd643e201e434c6bcfa6094c3bfb76310aa449b0aa7"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/setup_model.py",
+    "mode": 420,
+    "sha256": "affcf80fda12e0959e6dcfe3fee45ea3e72a84a15aee2a5a950e39aaf822291d"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/setup_ui.py",
+    "mode": 420,
+    "sha256": "7089c73fbbd8173795a00b448c731badcb326e583c48f81e6a434a1caadb81e3"
+  },
+  {
+    "path": "payload/usr/lib/gutochat-preview/usb_inventory.py",
+    "mode": 420,
+    "sha256": "f997a4ce207c8f85c3e7853722faa058932d01afe9f2d58a6d720d1cd244b5d5"
+  },
+  {
+    "path": "payload/usr/share/applications/gutochat-preview-base.desktop",
+    "mode": 420,
+    "sha256": "88c1fe370895e9d5bbf26c7f5a8a3009a46707ddec74a03ec15f2cf20cf62999"
+  },
+  {
+    "path": "payload/usr/share/applications/gutochat-preview-field.desktop",
+    "mode": 420,
+    "sha256": "7c43588031b139546b5b3295d486ff45f4e5496c9f5cac94099ab3e3420c8d6d"
+  },
+  {
+    "path": "payload/usr/share/applications/gutochat-preview-modules.desktop",
+    "mode": 420,
+    "sha256": "49534a345566d3cd76807b3a0f160d91ef555cdadc7ad2f6a2f22acc3dfb3e99"
+  },
+  {
+    "path": "payload/usr/share/applications/gutochat-preview-setup.desktop",
+    "mode": 420,
+    "sha256": "d8734e344cfb26f4955fd0c2425beaf46d241eae40aae332b8b96a8169cf856d"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/BUILDING.md",
+    "mode": 420,
+    "sha256": "7a5b7f3559f084f30ac47195f3ebfd36e7d2850edde6bd8316b53457fd1a5b55"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/BYGGING_NO.md",
+    "mode": 420,
+    "sha256": "cd39e77ddf82d3af3d4a382b7466fe39bfa32bf94f12f5a1d4634d64f2645d37"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/LICENSE-MIT",
+    "mode": 420,
+    "sha256": "4e0d49977a97ce78f1ec4fc87a68194ea11c33956c91de114894d8df1485533f"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/LICENSING.md",
+    "mode": 420,
+    "sha256": "a4d9f6db44177fbf72d8fba1d40a680c11d285c68ee593588f1e2d740917d7e1"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/LISENS_NO.md",
+    "mode": 420,
+    "sha256": "2082dcd57b8d95511eac924ad6f358a43d591ce080c63f7e0e6f5578bbe851cd"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/README",
+    "mode": 420,
+    "sha256": "d538eadb324823c33f7604e0e915b17737aaa9761c1f180efffae9063e5998fa"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/README.md",
+    "mode": 420,
+    "sha256": "e965e3b8e0cbd37c914419daacd388acbb01c6c3fac1d3102a666a9d094d27ce"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/README_NO.md",
+    "mode": 420,
+    "sha256": "8df1e3ce70829f055117fc1f1de406b412fcddf9b93698c09663f62a3ab5927e"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/SUPPORT.md",
+    "mode": 420,
+    "sha256": "ee818fea6b0f04e8f6d1201e1139ea46981cb3b4a48ea203070d3d134a6933fe"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/copyright",
+    "mode": 420,
+    "sha256": "38171cd03689f0a1bc7e6a157a1d94ecf585925ba676ea8df6a24ca482cdb929"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/en/CANDIDATE16.md",
+    "mode": 420,
+    "sha256": "e7815b46e5a9d00b65d03cb9d81864231e8f99579954f2faa16291d6e4ef2ed3"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/en/CANDIDATE17.md",
+    "mode": 420,
+    "sha256": "2e3dbe13d895b2ec4d2720b63edb6ec6107ff1726ce214bd53d1374bde33175d"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/en/CANDIDATE18.md",
+    "mode": 420,
+    "sha256": "956f71fd12d8b21ba5ef8dad368d26fbc5ef9a82c58afe51da7af57c509aee5f"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/en/INSTALLATION.md",
+    "mode": 420,
+    "sha256": "5d07b2e7ac19afdb817466f06c670bfff412eec81f72f427409029d56893cb5e"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/en/OPERATION_AND_UPGRADES.md",
+    "mode": 420,
+    "sha256": "d86a6d2109df9b037031e31c851bb59204b6dcf7fee238dbdd060de10d84ff5b"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/en/RELEASE_NOTES.md",
+    "mode": 420,
+    "sha256": "2396f287c3fda4a672bfcf17076a5b0c5b2b660bebc3eb5aac0e38b2e369b8bf"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/en/TROUBLESHOOTING.md",
+    "mode": 420,
+    "sha256": "64feeadf442ec26ecd7809817f2496d895e08dcc7320fff46dec715abf8ed80d"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/no/DRIFT_OG_OPPGRADERING.md",
+    "mode": 420,
+    "sha256": "59832c24e0b5bed647969b0b5efcd307e692119149f3f92d8523fc6a2cb2c7de"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/no/FEILSOKING.md",
+    "mode": 420,
+    "sha256": "824d081994b82193a874c7df835d4b76b8056f00208cfc7687c6fa97d5abed5e"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/no/INSTALLASJON.md",
+    "mode": 420,
+    "sha256": "ce31a352fe63d7dd49535167c2424fc49c1c5fbfe5b87adf4da5954c0da899fb"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/no/KANDIDAT16.md",
+    "mode": 420,
+    "sha256": "601129448af272fa99cd32e05eaf46868c8816484a5bbcde53555c4dd03715d9"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/no/KANDIDAT17.md",
+    "mode": 420,
+    "sha256": "1b91eb856d2b889de1ca7d86aae71460d8025a78d6482cbf55435bfcc49b0b8c"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/no/KANDIDAT18.md",
+    "mode": 420,
+    "sha256": "06b52325251656b4dee7b07271966d00733eab337ea4c62e42fc00c7a3b1ec3f"
+  },
+  {
+    "path": "payload/usr/share/doc/gutochat-preview/docs/no/VERSJONSNOTATER.md",
+    "mode": 420,
+    "sha256": "1938ee4dd6b0c9595b9cff99aae49e9665444d8a53d9f44a4080dc56ff2d0129"
+  }
+]

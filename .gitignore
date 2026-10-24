@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+/.venv/
+/build/
+/dist/
+*.deb
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.key
+*.pem
+id_ed25519*
+/private/
+
+/work/
