@@ -32,6 +32,6 @@ Replace the final word with `field` when needed. Check status, retained messages
 sudo apt-get remove gutochat-preview
 ```
 
-Removal/reinstall retention was tested with the earlier 12radio6 candidate. A complete new removal/reinstall trial has not been performed for 14. Candidate14 upgrade retention was verified. Do not manually delete data directories, use purge/autoremove or downgrade blindly as a routine repair.
+Removal/reinstall retention was tested with the earlier 12radio6 candidate. A complete new removal/reinstall trial has not been performed for candidate 18. Candidate 18 upgrade retention of settings and both databases was verified, as described in the [release notes](RELEASE_NOTES.md). Do not manually delete data directories, use purge/autoremove or downgrade blindly as a routine repair.
 
 Settings: `/etc/gutochat-preview/`. Role data: `/var/lib/gutochat-preview/data/base/` and `/var/lib/gutochat-preview/data/field/`. These may contain private information; do not attach them to public GitHub issues or source distributions.

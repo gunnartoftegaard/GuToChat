@@ -8,6 +8,23 @@ The documented physical trial used a Raspberry Pi 5 with 64-bit Debian 13, Pytho
 
 No Waveshare, Meshtastic or RTL-SDR device is required to install and open the core setup. Without a radio adapter, there is no radio messaging route. Install Base, Field or both; their settings and data are separate. A role does not require a particular radio model.
 
+## Download and verify the files
+
+Get `gutochat-candidate-r18.deb` and `SHA256SUMS` from the same prerelease.
+Also get `gutochat-driver-r4.deb` if you will use Meshtastic on arm64 with
+Python 3.13. The matching source/build archive is available in the same release.
+Save the files in one directory. Open Terminal in that directory on Linux:
+
+```bash
+sha256sum --ignore-missing --check SHA256SUMS
+```
+
+Every downloaded package must report `OK`. Files you did not download, such as
+the optional driver or source archive, are skipped. Stop if any check fails,
+no files are checked, or a downloaded package is missing from the results.
+This checks consistency with the release checksums; it is not independent
+signature verification.
+
 ## Install the core package
 
 Use packages and verified checksums from the same release. Open Terminal in the directory containing the verified package:

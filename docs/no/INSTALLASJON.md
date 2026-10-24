@@ -8,6 +8,23 @@ Den dokumenterte fysiske prøven gjelder Raspberry Pi 5 med 64-bit Debian 13, Py
 
 Du trenger ingen Waveshare-, Meshtastic- eller RTL-SDR-enhet for å installere og åpne grunnoppsettet. Uten radioadapter har oppsettet ingen radiomeldingsvei. Du kan installere Base, Field eller begge; de har separate innstillinger og data. Base/Field-rollen er ikke et krav om en bestemt radiomodell.
 
+## Last ned og kontroller filene
+
+Hent `gutochat-candidate-r18.deb` og `SHA256SUMS` fra samme prøveutgivelse.
+Hent også `gutochat-driver-r4.deb` hvis du skal bruke Meshtastic på arm64 med
+Python 3.13. Kilde-/byggearkivet er tilgjengelig i den samme utgivelsen.
+Lagre filene i én mappe. Åpne Terminal i denne mappen på Linux og kjør:
+
+```bash
+sha256sum --ignore-missing --check SHA256SUMS
+```
+
+Hver nedlastede pakke skal vises med `OK`. Kommandoen hopper over filer du ikke
+har lastet ned, som den valgfrie driveren eller kildearkivet. Stopp hvis en
+kontroll feiler, ingen filer blir kontrollert, eller en nedlastet pakke mangler
+fra resultatet. Dette kontrollerer samsvar med utgivelsens kontrollsummer;
+det er ikke en uavhengig signaturkontroll.
+
 ## Installer grunnpakken
 
 Bruk bare pakker med kontrollsummer fra den samme utgivelsen. Åpne Terminal i mappen der den kontrollerte pakken ligger, og kjør:
