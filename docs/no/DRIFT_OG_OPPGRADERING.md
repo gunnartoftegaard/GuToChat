@@ -32,6 +32,6 @@ Bytt siste ord til `field` ved behov. Kontroller Systemstatus, bevarte meldinger
 sudo apt-get remove gutochat-preview
 ```
 
-Databevaring ved fjerning og reinstallasjon ble prøvd på den tidligere 12radio6-kandidaten. Det er ikke gjort en ny full fjerne-/reinstallasjonsprøve av 14. Kandidat14s oppgraderingsbevaring er kontrollert. Ikke slett datamapper manuelt, bruk purge, autoremove eller blind nedgradering som standard feilretting.
+Databevaring ved fjerning og reinstallasjon ble prøvd på den tidligere 12radio6-kandidaten. Det er ikke gjort en ny full fjerne-/reinstallasjonsprøve av kandidat 18. Kandidat 18s oppgraderingsbevaring av innstillinger og begge databaser er kontrollert, som beskrevet i [versjonsnotatene](VERSJONSNOTATER.md). Ikke slett datamapper manuelt, bruk purge, autoremove eller blind nedgradering som standard feilretting.
 
 Innstillinger: `/etc/gutochat-preview/`. Rolledata: `/var/lib/gutochat-preview/data/base/` og `/var/lib/gutochat-preview/data/field/`. Disse kan inneholde privat informasjon og skal ikke legges i en offentlig GitHub-feilmelding eller kildepakke.
